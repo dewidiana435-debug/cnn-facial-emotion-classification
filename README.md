@@ -53,7 +53,7 @@ Model memperoleh akurasi sebesar **82,92% pada data pengujian (test set)**.
 
 Aplikasi desktop dikembangkan menggunakan Tkinter dengan fitur:
 
-- Memuat model CNN dalam format `.h5` atau `.keras`.
+- Memuat model CNN dalam format `.h5`.
 - Deteksi emosi wajah secara langsung menggunakan webcam.
 - Deteksi wajah menggunakan Haar Cascade Classifier dari OpenCV.
 - Menampilkan kategori emosi beserta tingkat confidence prediksi.
